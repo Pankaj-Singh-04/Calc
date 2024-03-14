@@ -1,0 +1,44 @@
+body{
+    background-color: #AFEEEE;
+}
+.cal-details2{
+    font-style: italic; 
+}
+.main-div{
+    background-color: #A9A9A9;
+    margin: auto;
+    margin-top: 60px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 10px solid rgb(183, 175, 238);
+    width: 300px;
+    height: 500px;
+    padding-bottom: 40px;
+}
+.input{
+   margin: 20px 10px;
+   width: 200px;
+   height: 40px;
+   border-radius: 10px;
+   box-shadow: 3px 3px black;
+}
+.btn-dtl{
+    padding: 5px;
+}
+button:hover{
+    background-color: rgba(255, 99, 71, 0.2);
+}
+.button{
+    border-radius: 30%;
+    width: 50px;
+    height: 50px;
+    padding: 10px;
+    box-shadow: 3px 3px bisque;
+    cursor: pointer;
+}
+
+.equalto{
+    width: 100px;
+    border-radius: 25%;
+}
